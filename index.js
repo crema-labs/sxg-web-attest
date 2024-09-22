@@ -1,7 +1,7 @@
 const mergeElement = document.querySelector("#button-merge");
 
 let endpoint =
-    "https://github.crema.sh/grant/4a1365c9cd76450a9788cabcbaebbb0d5b91683b8ed5bb355876361df5c7a41e";
+    "https://github.crema.sh/grant/6614cd3b57cab3071bbd63cc3a1464fc8bf783810941c476fb2168214fccacaf";
 
 mergeElement.addEventListener("click", async (e) => {
     e.preventDefault();
